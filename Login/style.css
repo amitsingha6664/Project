@@ -1,0 +1,40 @@
+body{
+    background-image: url('img/back4.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.card{
+    border-radius: 20px;
+    background-color: rgb(240, 240, 240, 0.4);
+}
+h3{
+    color: #259C7F;
+}
+.form-control{
+    border-radius: 20px;
+    border: 1px solid #259C7F;
+}
+.form-label{
+    color: #259C7F;
+    letter-spacing: 1px;
+}
+.btn{
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 10px 25px;
+    background-color: #814400;
+    color: white;
+}
+.btn:hover{
+    border: 2px solid #259C7F;
+    background-color: #259C7F;
+    color: white;
+    cursor: pointer;
+}
+p{
+    color: #259C7F;
+    letter-spacing: 1px;
+}
